@@ -1,0 +1,47 @@
+{
+  "name": "gulp-course",
+  "version": "1.0.0",
+  "description": "gulp4 build boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hazem-GitHub/Gulp4-build-boilerplate.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp4",
+    "build",
+    "boilerplate"
+  ],
+  "author": "Hazem Tantawy <hazem.ece@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hazem-GitHub/Gulp4-build-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Hazem-GitHub/Gulp4-build-boilerplate#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-changed": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-line-ending-corrector": "^1.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "procurios.resizesensor": "^0.2.4"
+  }
+}

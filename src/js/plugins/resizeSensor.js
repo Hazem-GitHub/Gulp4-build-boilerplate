@@ -1,0 +1,1 @@
+require('procurios.resizesensor');
